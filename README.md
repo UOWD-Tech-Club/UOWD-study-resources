@@ -24,6 +24,8 @@ Contribution format: </br>
 {link} </br>
 {description} </br>
 
+you can check CSCI251 and CSCI203 for an example.
+
 We will review your contribution and, if approved, merge it into the repository.
 
 ## Disclaimer
