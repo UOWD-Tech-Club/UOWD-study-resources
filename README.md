@@ -1,6 +1,6 @@
 # UOWD-study-resources
 
-This open source project will help students contribute to helpful study resources that are relevant to UOWD subjects, you can add a resource such as a YouTube playlist or a website that would be helpful in the process of studying for that subject you're contributing to and noting topics in this resource that aren't relevant for the subject. 
+This open source project will help students contribute to helpful study resources that are relevant to UOWD subjects, you can add a resource such as a YouTube playlist or a website that would be helpful in the process of studying for that subject you're contributing to and noting topics in this resource that aren't relevant for the subject.
 
 Rules and regulations (yes they exist):
 
@@ -24,3 +24,7 @@ We will review your contribution and, if approved, merge it into the repository.
 ## Disclaimer
 
 While we do our best to ensure the quality and accuracy of the resources in this repository, we do not guarantee the correctness or completeness of the information provided. Users of this repository should exercise their own judgment and use the resources at their own risk.
+
+## Contact
+
+If you have any questions, concerns, or feedback, please feel free to contact us through the Issues section of this repository. We appreciate your help in making this repository a valuable resource for our community.
