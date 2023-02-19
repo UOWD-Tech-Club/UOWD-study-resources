@@ -20,3 +20,7 @@ To contribute, please follow these steps:
 4. Open a pull request with a clear description of the changes you've made.
 
 We will review your contribution and, if approved, merge it into the repository.
+
+## Disclaimer
+
+While we do our best to ensure the quality and accuracy of the resources in this repository, we do not guarantee the correctness or completeness of the information provided. Users of this repository should exercise their own judgment and use the resources at their own risk.
