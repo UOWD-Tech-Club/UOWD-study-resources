@@ -1,1 +1,1 @@
-# subjects-resources
+# subject-resources
