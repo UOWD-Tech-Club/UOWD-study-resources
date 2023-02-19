@@ -19,10 +19,10 @@ To contribute, please follow these steps:
 3. Commit your changes and push them to your forked repository.
 4. Open a pull request with a clear description of the changes you've made.
 
-Contribution format:
-- {author name}, {title}
-{link}
-{description}
+Contribution format:<br>
+\- {author name}, {title}<br>
+{link}<br>
+{description}<br>
 
 We will review your contribution and, if approved, merge it into the repository.
 
